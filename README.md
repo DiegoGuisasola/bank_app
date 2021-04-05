@@ -1,4 +1,4 @@
-# BANKING SYSTEM: OOP AND GUI IMPLEMENTATION v1.0
+# BANKING SYSTEM: OOP AND GUI IMPLEMENTATION v0.1
 
 <p align="center">
   <img src="/images/bank.png" alt="drawing"/>
